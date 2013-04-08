@@ -1,0 +1,17 @@
+file 2712 1364557282                                            
+version 2
+run Normal-0-20130329-19:07:34-6244
+attr configname Normal
+attr datetime 20130329-19:07:34
+attr experiment Normal
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network Detection
+attr processid 6244
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
